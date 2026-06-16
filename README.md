@@ -37,6 +37,17 @@ $resume-generator 生成我的简历。
 我要完整版，风格黑白专业。
 ```
 
+### 示例说明
+
+仓库里已经放了可直接查看的示例文件，路径在 `resume-generator-skill/examples/`。
+
+| 示例 | 适合参考什么 | 预览图 | PDF |
+| --- | --- | --- | --- |
+| 张三 - AI Agent 校招生完整版简历 | 校招生/实习生简历的内容组织、版式和视觉风格 | <img src="resume-generator-skill/examples/张三-AI-Agent校招生-完整版简历-preview.png" alt="张三 AI Agent 校招生完整版简历预览" width="360"> | [查看 PDF](resume-generator-skill/examples/张三-AI-Agent校招生-完整版简历.pdf) |
+| 李四 - AI Agent 社招完整版简历 | 社招 AI Agent 开发/平台负责人简历的内容组织、版式和视觉风格 | <img src="resume-generator-skill/examples/李四-AI-Agent社招-完整版简历-preview.png" alt="李四 AI Agent 社招完整版简历预览" width="360"> | [查看 PDF](resume-generator-skill/examples/李四-AI-Agent社招-完整版简历.pdf) |
+
+如果想看精华亮点版，也可以打开同一目录下的手机版和 PC 版示例
+
 ### 需要准备的信息
 
 `resume-generator` 会先收集关键信息。信息不够时，它会继续追问，不会直接编造简历内容。
